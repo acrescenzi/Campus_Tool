@@ -1,0 +1,21 @@
+
+.margin-style {
+  margin: 10px;
+}
+.homeImage {
+   display: block;
+   max-width:510px;
+   max-height:340px;
+   width: auto;
+   height: auto;
+}
+.campus_thumbnail {
+  /* display: block; */
+  max-width:210px;
+  max-height:140px;
+  width: auto;
+  height: auto;
+}
+.bootstrap_img {
+  width: 100%;
+}
